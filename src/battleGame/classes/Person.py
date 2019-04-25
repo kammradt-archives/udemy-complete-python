@@ -22,16 +22,16 @@ class Person:
         if self.hp < 0:
             self.hp = 0
 
-    def max_hp(self):
+    def get_max_hp(self):
         return self.max_hp
 
-    def mp(self):
+    def get_mp(self):
         return self.mp
 
     def reduce_mp(self, cost):
         self.mp -= cost
 
-    def max_mp(self):
+    def get_max_mp(self):
         return self.max_mp
 
     def get_attack_damage(self):
