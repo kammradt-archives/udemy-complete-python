@@ -8,3 +8,6 @@ I'm following [this course](https://www.udemy.com/python-complete/).
 - [Regex](https://github.com/kammradt/udemy-complete_python/tree/master/src/regex)
 
 - [Files](https://github.com/kammradt/udemy-complete_python/tree/master/src/files)
+
+- [Request](https://github.com/kammradt/udemy-complete_python/tree/master/src/requests)
+
