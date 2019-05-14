@@ -12,3 +12,6 @@ I'm following [this course](https://www.udemy.com/python-complete/).
 - [Request](https://github.com/kammradt/udemy-complete_python/tree/master/src/requests)
 
 - [Pillow](https://github.com/kammradt/udemy-complete_python/tree/master/src/requests/pillow)
+
+- [BeautifulSoup](https://github.com/kammradt/udemy-complete_python/tree/master/src/web-scraping)
+
